@@ -72,7 +72,7 @@ export default function Overlay({ containerRef }: OverlayProps) {
             Portfolio
           </p>
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold text-white leading-none tracking-tight">
-            Pranav Harish Sivakumar
+            Pranavh Harish Sivakumar
           </h1>
           <p className="mt-4 text-lg md:text-2xl text-white/60 font-light tracking-wide">
             Creative Developer
