@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Pranav H. — Creative Developer",
+  title: "Pranavh Harish — Creative Developer",
   description:
-    "Portfolio of Pranav H., a creative developer specialising in high-performance web experiences.",
+    "Portfolio of Pranavh Harish, a creative developer specialising in high-performance web experiences.",
 };
 
 export default function RootLayout({
